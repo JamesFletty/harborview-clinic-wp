@@ -1,0 +1,16 @@
+/*
+Theme Name:        Harborview Clinic
+Theme URI:         https://harborviewwellness.example/
+Author:            James Fletty
+Description:       A hand-built classic theme for an independent behavioral and primary care practice. Clinician directory (custom post type, specialty taxonomy, native meta box), a read-only REST endpoint for client-side specialty filtering, a HIPAA-aware patient-portal handoff that collects no PHI on the public site, WCAG AA typography and zero page-builder or jQuery dependencies.
+Version:           1.0.0
+Requires at least: 6.5
+Tested up to:      6.7
+Requires PHP:      8.1
+License:           GNU General Public License v2 or later
+License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:       harborview
+Tags:              one-column, custom-colors, editor-style, translation-ready, accessibility-ready
+*/
+
+/* Front-end styles live in assets/css/ and are enqueued from inc/assets.php. */
